@@ -1,6 +1,11 @@
 # Scheduled Telegram Voice Chat Bot
 # This script starts a group video chat in a configured group and plays an
+
+# audio file when the scheduled time is reached. The bot account must be an
+# administrator in that group with permission to manage video chats.
+
 # audio file when the scheduled time is reached.
+
 #
 # Requirements:
 #   - pyrogram
